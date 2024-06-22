@@ -24,9 +24,9 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "First Last, Abbr."
-    tagline: Title
-    location: "City Name, ST"
+    name: "Bilguun Byambadorj"
+    tagline: Dr.
+    location: "Chicago, IL"
     photo: profile.jpg
   social:
     title: Links
@@ -64,40 +64,37 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: This is a demo of the `aafu` theme. It has `light` and `dark` theme.
+    description: Hello! My name is Bilguun Byambadorj, and I am a data engineer with a strong background in both mathematics and computer science. My journey in the technical field has been diverse and enriching, spanning academia and industry. I graduated in 2011 with a Bachelor of Science in Mathematics and Computer Science. This dual degree laid a solid foundation for my analytical and problem-solving skills, which I further honed during my graduate studies. In 2014, I earned a Master of Science in Nuclear Science and Engineering, followed by a Ph.D. in the same field in 2017. During my time as a Ph.D. student, I conducted extensive research, which led me to a position as a Research Assistant at the University of Michigan from 2018 to 2019. My work at the university focused on cutting-edge research in nuclear science, contributing valuable insights and advancements in the field. In 2019, I transitioned from academia to the tech industry, joining Capital One as a Software Developer. This role marked the beginning of my career in software development, where I applied my technical expertise to develop robust and scalable software solutions. Currently, I am a Data Engineer at Capital One, a position I have held since 2020. In this role, I design, build, and maintain the infrastructure that enables the collection, storage, and analysis of large datasets. My work helps drive data-driven decision-making and innovation within the company. With a unique combination of academic rigor and industry experience, I am passionate about leveraging data to solve complex problems and create impactful solutions. Feel free to explore my portfolio to see some of the projects I have worked on, or reach out to me via [LinkedIn](https://linkedin.com/in/yourprofile) or [email](mailto:bilguunbyam@gmail.com).
   experience:
     title: Experiences
     icon: fas fa-briefcase
     list:
-      - position: Job Title
+      - position: Data Engineer
         dates: 2019 - *Present*
-        company: Company Name
+        company: Capital One
         details: |1-
           - Printed from desktop. Sent [emails](#).
               - Called people *using* telephone.
           - Drank water from office cooler.
           - Ate donuts on people's birthdays.
-      - position: Job Title
+      - position: Research Assistant
         dates: 2018 - 2019
-        url: "#"
-        company: Company Name
+        company: University of Michigan
   education:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
+      - degree: Ph.D. in Nuclear Science and Engineering
+        college: Idaho State University
+        dates: 2014 - 2017
+        thesis_title: "Simulating Approach-To-Critical Experiment on EBR-II Reactor"
+      - degree: M.S. in Nuclear Science and Engineering
+        college: Idaho State University
+        dates: 2011 - 2014
+        thesis_title: "Upgrade of Deterministic Multi-Energy Group Diffusion Reactor Physics Code"
+      - degree: B.S. in Mathematics and Computer Science
+        college: Dickinson State University
+        dates: 2007 - 2011
   publication:
     title: Publications
     icon: fas fa-book
