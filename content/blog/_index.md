@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "Bilguun's Blog"
 weight: 100
 ---

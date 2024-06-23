@@ -132,18 +132,14 @@ params:
     title: Projects
     icon: fas fa-project-diagram
     list:
-      - title: Project 1
-        url: "#"
-        description: Description of the project
-      - title: Project 2
-        url: "#"
-        description: Description of the project
-      - title: Project 3
-        url: "#"
-        description: Description of the project
-      - title: Project 4
-        url: "#"
-        description: Description of the project
+      - title: Project 1 - Data Product
+        description: At Capital One Bank, a multitude of data producers and consumers coexist, and a recent policy mandates that data consumers access information exclusively from Data Product as opposed to conventional databases, prompting our team of engineers to develop a novel data product tailored for deposit account data producers.
+      - title: Project 2 - Bank Account Number Tokenization
+        description: At Capital One Bank, data producers migrated from legacy platforms to a new Enterprise platform. But this new Enterprsie platform did not have a feature to tokenize bank account numbers. I innersourced some of existing tokenization feature to the Enterprise platform so that producers would not worry about raw bank account numbers floating around the database.
+      - title: Project 3 - Migrating/Onboarding Data Producers to Enterprise Platform
+        description: At Capital One Bank, the migration of data producers from legacy platforms to a new Enterprise platform entails significant time and cost investments. Our team of engineers adeptly managed simultaneous engagements with multiple data producers, ensuring the seamless migration of existing entities and the successful onboarding of new contributors.      
+      - title: Project 4 - UAT
+        description: At Capital One Bank, the Enterprise team always upgrade the platform and add new features. As a seasoned Enterprise experts, our team perform user accaptance testing every quarter.
   skill:
     title: Skills
     panelId: skill-panel
@@ -162,3 +158,4 @@ params:
       - hobby: Playing Basketball
       - hobby: Camping
       - hobby: Cooking
+      - hobby: Hiking

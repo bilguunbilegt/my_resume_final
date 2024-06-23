@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability on </title>
+    <link>http://localhost:1313/tags/sustainability/</link>
+    <description>Recent content in Sustainability on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Nuclear Power in a Sustainable Future</title>
+      <link>http://localhost:1313/blog/post_3/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post_3/</guid>
+      <description>The Role of Nuclear Power in a Sustainable Future Nuclear power has long been a topic of debate, with strong opinions on both sides regarding its safety, environmental impact, and potential as a sustainable energy source. As we face the pressing challenges of climate change and the need for clean, reliable energy, it’s essential to examine the role that nuclear power can play in a sustainable future.&#xA;Understanding Nuclear Power Nuclear power is generated through the process of nuclear fission, where the nucleus of an atom splits into smaller parts, releasing a significant amount of energy.</description>
+    </item>
+  </channel>
+</rss>
