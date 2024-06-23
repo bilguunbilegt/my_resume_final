@@ -73,13 +73,30 @@ params:
         dates: 2019 - *Present*
         company: Capital One
         details: |1-
-          - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
+          - Leading a group of Senior Software developers to support producer teams to onboard to Enterprise publishing platform.
+          - Working in an agile team of software engineers to develop software programs using JAVA and SCALA
       - position: Research Assistant
         dates: 2018 - 2019
         company: University of Michigan
+        details: |1-
+          - Simulated nuclear reactor core analysis using Serpent and PARCS
+          - Used High-Performance Computing cluster in Windows environment
+          - Participated in preparation of technical reports for Department of Energy (DOE) and Nuclear Regulatory Commission (NRC)
+          - Developed reactor physics code using FORTRAN
+      - position: Research Assistant
+        dates: 2017 - 2018
+        company: Idaho State University
+        details: |1-
+          - Modeled an INL facility to test applicability for the LEU FBR using MCNP6
+          - Simulated the TREAT reactor core using MCNP6
+      - position: Graduate Research Assistant
+        dates: 2014 - 2017
+        company: Idaho State University
+        details: |1-
+          - Successfully worked with a team in performing benchmark evaluation of the EBR-II nuclear reactor using MCNP6
+          - Performed Monte Carlo simulation of EBR-II using both SCALE and MCNP6
+          - Performed uncertainty quantification for EBR-II core
+          - Assisted software development using MATLAB and C++
   education:
     title: Education
     icon: fas fa-graduation-cap
@@ -103,34 +120,23 @@ params:
       - title
       - authors
       - journal
-    types:
-      - Journal Articles
-      - Proceedings
     list:
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
+          Application of MSM to EBR-II Approach-to-Critical
+        authors: "B. Byambadorj, C.Pope"
+        date: "Drafted 2018"
+        journal: "Nuclear Science and Engineering"
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
+          EBR-II Approach-to-Critical Simulation
+        authors: "B. Byambadorj, C.Pope"
+        date: "Drafted 2018"
+        journal: "Annals of Nuclear Energy"
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Proceedings
+           Evaluation of RUN138B at Experimental Breeder Reactor II, A Protypic
+           Liquid Metal Fast Breeder Reactor
+        authors: "C. L. Pope, B. Byambadorj, E. S. Lum, R. Stewart, Q. Beaulieu,"
+        date: "2017"
+        journal: "International Reactor Physics Experiment Evaluation Project Handbook"
   project:
     title: Projects
     icon: fas fa-project-diagram
@@ -152,16 +158,16 @@ params:
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "Skill 1, Skill 2"
+      - skill: "Java, Python"
         skillrating: 90
-      - skill: Skill 3
+      - skill: SQL
+        skillrating: 85
+      - skill: Data Analysis
         skillrating: 80
-      - skill: Skill 4
-        skillrating: 50
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
     list:
+      - hobby: Playing Basketball
+      - hobby: Camping
       - hobby: Cooking
-      - hobby: Hiking
-      - hobby: Baking
