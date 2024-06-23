@@ -116,10 +116,10 @@ params:
     title: Publications
     icon: fas fa-book
     format:
-      - date
       - title
       - authors
       - journal
+      - date
     list:
       - title: >-
           Application of MSM to EBR-II Approach-to-Critical
