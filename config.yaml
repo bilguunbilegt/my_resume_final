@@ -32,26 +32,17 @@ params:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/in/bilguun-byambadorj-4b0148315/"
         title: LinkedIn
       - icon: fab fa-stack-overflow
-        url: "#"
+        url: "https://stackoverflow.com/users/25681200/bilguun-byambadorj"
         title: StackOverflow
       - icon: fab fa-github
-        url: "#"
+        url: "https://github.com/bilguunbilegt"
         title: GitHub
       - icon: fab fa-twitter
-        url: "#"
+        url: "https://x.com/bilguun0517"
         title: Twitter
-      - icon: fab fa-orcid
-        url: "#"
-        title: Orcid
-      - icon: ai ai-google-scholar
-        url: "#"
-        title: Google Scholar
-      - icon: fab fa-researchgate
-        url: "#"
-        title: ResearchGate
   showInAccordion:
     - item: aboutme
       expand: true
@@ -122,18 +113,18 @@ params:
       - date
     list:
       - title: >-
-          Application of MSM to EBR-II Approach-to-Critical
+            Application of MSM to EBR-II Approach-to-Critical
         authors: "B. Byambadorj, C.Pope"
         date: "Drafted 2018"
         journal: "Nuclear Science and Engineering"
       - title: >-
-          EBR-II Approach-to-Critical Simulation
+            EBR-II Approach-to-Critical Simulation
         authors: "B. Byambadorj, C.Pope"
         date: "Drafted 2018"
         journal: "Annals of Nuclear Energy"
       - title: >-
-           Evaluation of RUN138B at Experimental Breeder Reactor II, A Protypic
-           Liquid Metal Fast Breeder Reactor
+             Evaluation of RUN138B at Experimental Breeder Reactor II, A Protypic
+             Liquid Metal Fast Breeder Reactor
         authors: "C. L. Pope, B. Byambadorj, E. S. Lum, R. Stewart, Q. Beaulieu,"
         date: "2017"
         journal: "International Reactor Physics Experiment Evaluation Project Handbook"
